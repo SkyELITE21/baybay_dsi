@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to Baybay Downfall: Spanish Invasion
 
-You can use the [editor on GitHub](https://github.com/SkyELITE21/baybay_dsi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Baybay Downfall: Spanish Invasion is a RPG game set in the Philippines.
+The main characters are:
+1. Lapu Lapu
+2. Andres Bonifacio
+3. Emilio Aguinaldo.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There are 3 time periods in the game.
+1. Pre Spanish Colonial
+(Where you play as Lapu Lapu)
+2. Spanish Colonial
+(Where you play as Andres Bonifacio
+3. Post Spanish Colonial
+(Where you play as Emilio Aguinaldo)
 
-### Markdown
+**For more details** _see_ [Baybay Downfall: Spanish Invasion Wiki](https://github.com/SkyELITE21/baybay_dsi/wiki).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Download
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SkyELITE21/baybay_dsi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Currently, The game is not yet available for download but Android Game Developers may help me in building my very first game.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**For normal vistors** _see_ [Baybay Downfall: Spanish Invasion Github Website](https://skyelite21.github.io/baybay_dsi)
+**For those who want to** _help_ **please** _see_ [SkyELITE21 Website](https://skyelite21.weebly.com/home).
+**Thank you for viewing and come back again at beta or release stage!** :)
