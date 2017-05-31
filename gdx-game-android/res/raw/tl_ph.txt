@@ -1,0 +1,5 @@
+<sld version="1.0">
+<£ name="get_button">Kuhanin</£>
+<£ name="save_button">I-Save</£>
+<£ name="remove_button">Tanggalin</£>
+</sld>

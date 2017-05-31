@@ -1,0 +1,5 @@
+<sld version="1.0">
+<£ name="get_button">Get</£>
+<£ name="save_button">Save</£>
+<£ name="remove_button">Remove</£>
+</sld>
