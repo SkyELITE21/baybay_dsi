@@ -23,5 +23,8 @@ Currently, The game is not yet available for download but Android Game Developer
 ### Support or Contact
 
 **For normal vistors** _see_ [Baybay Downfall: Spanish Invasion Github Website](https://skyelite21.github.io/baybay_dsi)
-**For those who want to** _help_ **please click** _the email link:_ [skyelite21](mailto: skyelite212001@gmail.com@&subject=Volunteer%20to%20Help%20Baybay&body=I%20volunteer%20to%20help%20build%20the%20game).
+**For those who want to** _help_ **please** _email:_ **skyelite212001@gmail.com**
+**_Use the following format:_**
+Subject: Baybay Volunteer
+Body: I volunteer to help build the game undertaking the role **_your role_**.
 **Thank you for viewing and come back again at beta or release stage!** :)
